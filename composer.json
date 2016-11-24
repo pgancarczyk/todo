@@ -1,0 +1,16 @@
+{
+	"name": "polcode/todo",
+	"require":
+	{
+		"symfony/console": "dev-master",
+                "doctrine/orm": "*",
+		"symfony/yaml": "^3.1"
+	},
+	"autoload":
+	{
+		"psr-0":
+		{
+			"": "src/"
+		}
+	}
+}
