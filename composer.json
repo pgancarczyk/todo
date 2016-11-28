@@ -4,7 +4,8 @@
 	{
 		"symfony/console": "dev-master",
                 "doctrine/orm": "*",
-		"symfony/yaml": "^3.1"
+		"symfony/yaml": "^3.1",
+		"symfony/debug": "^3.1"
 	},
 	"autoload":
 	{
